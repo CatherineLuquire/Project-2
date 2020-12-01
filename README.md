@@ -1,5 +1,4 @@
-# Project-2
-## Marine Mammal Sightings in the Pacific Northwest & Canada
+# Marine Mammal Sightings in the Pacific Northwest & Canada
 
 ![K43 Breachl](Images/K43_breach.webp)
 
