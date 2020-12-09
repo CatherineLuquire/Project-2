@@ -10,7 +10,7 @@
 * [Development Team](#development-team)
 
 ## Introduction
-[Marine Mammal Visualization Project](https://marine-mammals.herokuapp.com/)
+[Marine Mammal Sightings Website](https://orca-sightings.herokuapp.com/)
 
 Our team project was to create a website to visualize marine mammal sightings. We predominantly focused on orcas, as all but 5 of our datapoints were orcas. We created a map for sightings utilizing different markers for different species, compared which pods were sighted together more often, and finally looked at the most active sighting locations and seasonal variations within those locations. 
 
